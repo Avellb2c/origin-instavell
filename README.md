@@ -1,2 +1,2 @@
 # ez-instavell
- Easy selector drivers and applications for automation instalation from server or local directory
+ Easy selector drivers and applications for automation of instalation from server or local directory on WINDOWS only
