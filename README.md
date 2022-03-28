@@ -1,3 +1,3 @@
 # origin-instavell
-Easy selector drivers and applications for automation of instalation from server or local directory on WINDOWS only
-Download all the project and run the main.py to begin...!
+Easy drivers and applications' selector for automation of installation from server/local directory in WINDOWS only.
+Download all the project and RUN the MAIN.py to begin...!
